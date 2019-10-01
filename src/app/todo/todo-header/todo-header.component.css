@@ -1,0 +1,7 @@
+mat-toolbar {
+    color: rgb(243, 233, 233) !important;
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    letter-spacing: 3px;
+}
